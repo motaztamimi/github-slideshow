@@ -1,5 +1,5 @@
-File is given from local filesystem 
-HTTP/1.0 200 OK 
+File is given from local filesystem
+HTTP/1.0 200 OK
 Content-Length: 3961
 
 <html>
@@ -77,7 +77,7 @@ Content-Length: 3961
 		</script>
 	</head>
 	<body>
- 
+
 	<noscript>
 		<div class="notice">
 			<div class="container">
@@ -134,5 +134,5 @@ Content-Length: 3961
 
 	</body>
 </html>
- 
- Total response bytes: 4002 
+
+ Total response bytes: 4002
